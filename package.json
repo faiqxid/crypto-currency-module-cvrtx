@@ -1,0 +1,24 @@
+{
+    "name": "crypto-currency-module-cvrtx",
+    "version": "1.0.0",
+    "description": "A Node.js module for converting currency and encrypting/decrypting transaction details",
+    "main": "cryptoHelper.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "crypto",
+        "currency",
+        "encryption",
+        "module"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "crypto-currency-helper": "^1.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/faiqxid/crypto-currency-module-cvrtx.git"
+    }
+}
